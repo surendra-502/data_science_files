@@ -1,0 +1,354 @@
+EDA ---> Exploratory Data Analysis. 
+
+Descriptive Analysis: Decribing Statistical Properties of the data. 
+
+Measure of Central Tendancy: 
+Mean,Median,Mode
+ 
+
+Measure of Dispersion: 
+Range, Variance,    summation(xi-x_bar)**2/n-1 /N
+
+Standard Deviation. Root(Variance)
+
+Coefficient of Variation. 
+Its a statistical measure which will tell us the variations in the data in terms of Percentage. 
+
+C.V = Sigma/Mu (sigma---> Standard Deviation & mu ---> Average)
+
+Measure of Frequency:
+
+Frequency Count ()
+
+
+Skewness : Measure of Asymmetry in the Data.
+
+Reason : When we have lot of outliers in the data skewness occurs. 
+
+Outliers are the data points/extreme values which are very far from the mean and these data points cause unnecessary disturbance(asymmetric shape) to the distribution of data. The measure this asymmetry is called as Skewness. 
+
+
+Types of Skewness: 
+
+Positive Skewness / Right Tail / Right Skewed Data 
+
+Negative Skewness / Left Tail / Left Skewed Data
+
+
+class marks 0 to 100. 
+
+
+very tough. 
+
+0 to 30 marks 90% of data 
+10% > 30 
+1% > 90 marks 
+1,2,3,11,22,33,21,22,32,12,14,15,11,7,6,5,6,7,.....44...55...78..88..99,100
+
+
+Very Easy 
+
+90% 70 to 100
+10% < 70
+
+
+Data : Is this data normal. 
+
+mean = median = mode  ( Mean Median & Mode are not same there is some difference) 
+Histogram ---> Bell Shape Curve. (The shape is also not bell shape) 
+
+
+If it is not Bell Shape what shape it --> Skewness 
+
+For a Perfect Normal Distribution the Skewness = 0. 
+
+If the Shape of Histogram is having right we say it has Positive Skewness 
+
+If the Shape of Histogram is having left tail we say it has Negative Skewness 
+
+Lot of Sceintists/Mathematicians came up with their own version of formula for Skewness Calculation. 
+
+
+Skewsness value = 0 Interpret it has There is no Asyymetry in the data) 
+
+Skewness value > 0 --> We call it has positive skewness and as the value increases we say the asymmetry is high. 
+
+4 > 3 > 2 > 1
+
+Skewness value < 0 --> We call it has Negative skewness and as the value increases we say the asymmetry is high. 
+
+-1, -2, -3 
+
+
+
+Skewness ---> In the context of purely model building (Predictive Analysis) its very bad. 
+
+
+Colleges ---> Positive Skewness in Placement package or Negative
+
+
+1,2,3,4,5---> 3/3
+
+1,2,3,4,5,100 ---> 19marks / 3.5 
+
+
+Kurtosis:   Measure of Peakedness in the Distribution. 
+
+
+
+mon, ---> 10   9          1
+tue -----> 12  10         0
+wed -> 14       15         30
+thur  -> 11      40        35
+fri  -> 13      100        9
+sat  _ 9      120       2
+sun -> 10     115       1 
+
+
+
+
+Covariance & Correaltion. 
+
+
+Variance: Its tell us about the spread of the data.
+
+If variance is 0 it indicates there are no patterns/variability in the data for the model to learn. Variance talks about individual variable information. 
+
+
+Covariance talks about the relation between 2 variables. How one variable is influencing the other variable. 
+
+
+Predict : Salary 
+
+Gender,Adress,Email,Phone,Name,Experience,Age. 
+
+
+Predict the Insurance Amount: 
+
+Previous_Health_Condition_Details, Age,Gender,Phone,Address. 
+
+
+Predict the Stock Price. 
+
+variables: Open Interest,Volatality,Delta. 
+
+
+Covariance tells us how the relationship is between two variables and the range of covariance value is -infinite to + infinite. 
+
+
+
+
+x & y ----> they are positively related/ directly proportional
+
+x & y ---> they are negatively related/indirectly proportional. 
+
+x & y ----> No relation at all. 
+
+
+Salary & Age are Positively related so covariance value will be a positive value. since the range of covariance mathematically can be anything between -inf to +inf it makes it doifficult for us to interpret the strength of the relationship between Salary and Age
+
+Age(40) & Strength are Negatively related so covariance value will be a Negative Value. 
+
+If covariance value is 0 it means there is no relation. 
+- inf
+10
+20
+30
+40
+50 marks ---> base line orgin Covariance = 0 
+60
+70
+80
+90
+100marks 
++inf
+
+
+
+10
+20
+30
+40
+50 marks ---> base line orgin Covariance = 0 
+60
+70
+80
+90
+100marks
+
+Correlation: It tells us both the Direction of the Relationship and also the strength of the relationship between 2 variables. 
+
+Salary & Age are Positively related so correlation value will be a positive value.
+
+
+Age(40) & Strength are Negatively related so correlation value will be a Negative Value. 
+
+
+the range of correlation is between -1 to +1. 
+
+
+if the correlation values is close to -1 : Strong Negative Relation B/w X & Y.
+if the correlation values is close to -0.5 :Moderate Negative Relation B/w X & Y.
+if the correlation values is close to 0 : NO Relation B/w X & Y.
+
+if the correlation values is close to +0.5 : Moderate Positiv Relation B/w X & Y.
+
+if the correlation values is close to +1 : Strong Positive Relation B/w X & Y.
+
+EDA --> STATS ---> SL --> USL ---> Recommendation ---> TS ---> DL --> CV ---> NLP --> GenAI 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Box Plot:  
+
+
+
+Skew. 
+
+
+
+
+Kurtosis
+
+
+
+
+
+
+Population 
+Sample 
+Variables 
+
+
+
+AI Assisted Engineer. 
+
+
+
+Product  Based 
+
+
+Service Based
+
+
+
+Non Tech    +    Tech
+
+Tiger Analytics 
+
+Tech : 
+
+Data Engineer 
+Data Science (MLOPS/Analyst/Sr Data Scie)
+
+
+Enablers 
+HR 
+(Talent Acquisition Teams) 
+
+People Development Team / Learning & Dev Team. 
+
+Xops
+
+
+Consultants(Strategist) 
+
+
+Lovable AI. 
+
+Google AI Studio.
+
+
+
+eacuse of all this advancements in AI the Gap between the Non IT and IT folks will disappear. New skillset will emerge called as AI Assisted Engineer. 
+
+
+Acquisition Cost + CTC + AI Assistance
+
+
+OpenAI 
+Anthropic 
+Google 
+
+
+These companies will never be profitbale in long run. 
+
+
+Transformation:
+
+
+AI Assisted Engineers: The one who can solve problems using AI. 
+
+
+
+ 
+
+mckin ====> Diffference it & non it 
+
+Raj Shamini ===> Dario
+
+Think School. ===> Spacex
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

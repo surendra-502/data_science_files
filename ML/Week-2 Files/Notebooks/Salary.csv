@@ -1,0 +1,501 @@
+Experience,Age,Gender,Designation,Education,Height_cm,Weight_kg,Salary_Rupees
+6,37,Female,Associate,UG,161.4,81.8,97634.09
+19,47,Male,Associate,UG,170.1,61.1,150705.15
+28,59,Female,Manager,PG,168.2,44.1,221352.13
+14,38,Male,Associate,PG,164.7,73.1,132014.12
+10,33,Male,Senior Manager,UG,164.4,81.9,127330.77
+7,37,Male,Manager,UG,157.6,53.8,109900.77
+28,57,Female,Associate,UG,165.8,78.0,199843.96
+20,54,Male,Associate,UG,173.8,78.1,165521.49
+6,39,Male,Senior Manager,UG,155.3,42.7,121415.47
+25,56,Female,Senior Manager,PG,164.9,58.8,221949.94
+18,46,Male,Associate,UG,175.4,65.3,158485.69
+22,52,Male,Manager,PG,170.1,67.8,199867.59
+10,35,Male,Associate,UG,178.1,61.1,102048.39
+10,44,Male,Senior Manager,UG,159.3,60.4,152041.71
+23,48,Male,Associate,PG,146.7,90.1,202725.01
+20,42,Male,Senior Manager,PG,167.0,68.7,180283.44
+3,32,Female,Manager,PG,168.6,61.7,115240.6
+7,40,Male,Manager,UG,178.7,69.5,135227.01
+23,47,Male,Manager,UG,176.9,76.4,194230.73
+2,30,Female,Associate,PG,170.4,70.6,92695.31
+21,54,Male,Associate,UG,172.7,67.5,185691.72
+20,43,Female,Associate,UG,163.1,62.2,166457.14
+1,24,Male,Associate,UG,152.8,62.1,81269.67
+23,51,Male,Manager,UG,166.2,62.8,180310.18
+11,38,Male,Associate,PG,174.8,74.1,113987.48
+29,53,Male,Associate,UG,171.6,58.1,186961.19
+5,35,Male,Senior Manager,UG,173.3,74.7,120854.25
+1,32,Male,Senior Manager,UG,160.7,87.0,112968.75
+27,61,Male,Senior Manager,UG,162.3,73.9,217454.34
+20,47,Male,Senior Manager,UG,169.8,65.6,195750.57
+0,31,Male,Associate,UG,159.5,54.4,77403.19
+11,42,Male,Associate,UG,159.8,88.9,127103.47
+25,52,Male,Manager,PG,168.0,56.0,195611.71
+21,43,Male,Manager,UG,172.6,80.2,154720.73
+28,53,Female,Associate,UG,163.0,77.7,200806.15
+11,42,Male,Senior Manager,PG,153.4,67.2,174059.99
+24,51,Female,Associate,PG,157.6,66.8,187827.1
+16,43,Female,Associate,UG,167.0,48.0,128937.78
+26,58,Male,Manager,UG,166.9,74.0,218824.89
+26,59,Female,Manager,UG,167.4,77.4,195286.4
+9,35,Female,Manager,PG,170.2,56.9,117396.51
+27,49,Male,Associate,PG,165.1,68.1,193111.3
+27,56,Male,Senior Manager,PG,167.7,70.5,227243.05
+15,41,Female,Associate,UG,164.5,77.0,131432.15
+14,47,Female,Associate,PG,176.5,70.0,149784.41
+29,62,Male,Senior Manager,UG,179.3,50.5,243164.69
+29,62,Male,Senior Manager,UG,153.1,119.6,244611.26
+14,40,Male,Senior Manager,UG,162.4,72.7,170509.89
+29,57,Male,Senior Manager,PG,165.3,80.1,252626.12
+18,43,Female,Manager,UG,162.3,62.6,171563.31
+11,38,Male,Manager,PG,182.9,96.3,139001.04
+22,56,Male,Associate,UG,167.2,47.3,194536.13
+19,44,Female,Associate,UG,156.9,63.2,162606.6
+24,48,Male,Associate,UG,171.0,69.0,185090.5
+2,30,Male,Associate,UG,167.7,67.6,88778.51
+4,33,Female,Manager,PG,168.0,55.2,102350.31
+18,43,Female,Associate,UG,183.1,75.4,143325.55
+6,40,Male,Associate,PG,168.5,74.5,118059.72
+20,43,Male,Associate,PG,162.0,70.6,166975.64
+8,41,Male,Manager,PG,145.4,74.0,129619.77
+6,37,Male,Associate,UG,163.3,64.9,113709.89
+17,41,Male,Senior Manager,UG,178.1,50.6,189314.73
+3,25,Male,Associate,UG,164.1,61.4,65026.34
+24,53,Male,Associate,PG,142.6,71.9,198216.1
+27,51,Male,Manager,PG,160.0,72.0,207821.19
+13,46,Male,Senior Manager,UG,174.9,70.5,168557.68
+17,48,Male,Associate,PG,170.5,76.6,159739.9
+25,53,Male,Manager,UG,156.6,63.0,198976.49
+8,39,Male,Manager,PG,159.3,70.3,134767.7
+25,51,Male,Associate,UG,160.9,76.9,184483.72
+20,51,Female,Senior Manager,PG,158.4,69.0,181258.4
+1,27,Female,Manager,UG,144.7,55.1,86014.61
+19,47,Female,Manager,PG,172.6,58.5,163339.23
+27,57,Female,Senior Manager,PG,177.6,80.0,233124.69
+14,47,Male,Senior Manager,PG,149.8,86.7,154818.76
+27,53,Male,Manager,UG,177.4,84.1,216891.05
+6,28,Male,Senior Manager,UG,164.0,72.8,120298.84
+11,42,Female,Manager,UG,177.3,55.6,145351.83
+28,59,Female,Manager,UG,165.4,69.9,195858.57
+7,29,Male,Manager,UG,166.4,88.7,107277.02
+14,37,Male,Manager,PG,168.7,77.4,160076.52
+2,29,Male,Associate,UG,157.1,67.5,80266.95
+13,43,Male,Senior Manager,UG,176.9,77.5,148801.74
+16,45,Female,Senior Manager,UG,153.8,54.8,164031.53
+3,37,Female,Associate,UG,161.0,61.7,98772.08
+17,43,Male,Senior Manager,PG,170.2,57.0,167973.48
+7,29,Female,Associate,UG,159.9,75.6,111829.62
+3,37,Female,Associate,PG,172.8,78.6,103917.91
+1,29,Male,Manager,UG,178.8,68.2,87007.56
+29,55,Male,Associate,PG,175.1,59.5,197505.77
+5,32,Male,Senior Manager,PG,145.6,69.8,128746.95
+21,55,Male,Senior Manager,UG,166.3,64.2,206105.44
+9,37,Male,Manager,PG,175.3,60.4,125600.68
+3,27,Male,Associate,UG,151.8,74.1,63083.08
+21,54,Male,Associate,PG,172.2,60.9,189116.51
+28,59,Male,Manager,UG,171.7,51.2,216608.95
+17,41,Female,Senior Manager,PG,152.9,53.9,175751.72
+25,51,Male,Manager,PG,173.3,50.8,222055.74
+11,38,Male,Associate,PG,167.7,73.0,130754.23
+1,31,Male,Manager,PG,171.5,71.8,95399.55
+9,43,Female,Manager,UG,155.3,71.2,124982.08
+29,62,Male,Manager,UG,166.5,77.1,222904.45
+3,29,Male,Associate,UG,148.0,84.3,90063.44
+13,35,Female,Manager,UG,142.2,62.9,136897.9
+15,40,Female,Manager,PG,166.4,74.9,172256.33
+14,40,Female,Senior Manager,UG,176.0,51.0,161989.02
+7,40,Male,Associate,PG,167.5,86.5,120714.27
+13,44,Male,Manager,PG,164.4,55.1,148886.41
+22,53,Female,Senior Manager,PG,163.1,61.5,208131.79
+27,53,Female,Associate,UG,155.6,62.8,186361.27
+24,52,Female,Senior Manager,PG,162.8,51.7,211732.27
+29,54,Female,Manager,PG,169.2,70.4,222896.4
+7,29,Male,Associate,UG,160.6,72.6,98321.42
+20,46,Female,Associate,PG,172.5,67.7,162727.85
+15,43,Male,Manager,PG,167.0,51.5,138601.38
+12,43,Male,Associate,UG,168.2,93.8,148025.62
+17,48,Male,Manager,UG,173.9,76.6,173097.21
+14,41,Male,Associate,UG,159.7,101.6,143844.67
+20,46,Male,Manager,UG,171.6,60.3,159390.46
+23,48,Male,Associate,UG,161.1,81.5,190813.55
+25,48,Female,Senior Manager,UG,168.4,79.4,197392.86
+24,49,Male,Senior Manager,UG,158.5,66.5,198569.3
+27,58,Female,Senior Manager,UG,155.9,86.9,212312.39
+27,58,Male,Manager,PG,165.9,65.1,201120.54
+27,51,Male,Associate,UG,146.1,65.7,204966.21
+12,43,Male,Manager,PG,162.0,28.3,164226.19
+8,30,Male,Associate,UG,148.9,74.9,103279.12
+28,57,Male,Associate,UG,172.8,54.1,198697.4
+14,40,Male,Associate,UG,175.5,63.4,134262.24
+12,46,Male,Associate,UG,156.4,57.7,137423.71
+0,25,Female,Manager,UG,169.3,65.6,70509.63
+24,53,Male,Manager,PG,174.0,75.3,199638.38
+6,34,Female,Associate,UG,174.0,70.1,105576.54
+8,31,Male,Associate,PG,167.1,78.5,121717.84
+23,45,Female,Senior Manager,PG,172.3,85.2,196724.72
+0,33,Female,Associate,UG,158.5,65.6,68690.74
+11,43,Female,Associate,UG,165.8,64.3,136022.41
+7,32,Male,Associate,PG,160.3,81.5,107451.82
+23,52,Male,Manager,UG,157.7,82.4,206704.74
+10,43,Male,Manager,UG,165.4,78.9,154823.04
+18,41,Female,Associate,PG,168.5,58.6,170127.64
+16,40,Female,Associate,UG,176.6,75.1,137457.51
+7,40,Female,Manager,PG,167.7,71.3,150915.75
+2,24,Male,Manager,PG,171.4,82.6,96579.41
+2,24,Female,Associate,UG,171.5,63.1,93275.84
+0,34,Female,Senior Manager,UG,191.9,50.0,101048.18
+26,50,Male,Associate,UG,146.9,78.3,185948.38
+4,36,Male,Associate,UG,158.1,39.3,104613.78
+9,35,Female,Senior Manager,UG,179.7,61.2,136066.14
+6,39,Female,Associate,PG,161.5,57.7,128993.68
+25,49,Female,Manager,UG,173.9,57.6,191185.92
+8,30,Male,Associate,UG,167.3,61.0,116630.69
+27,49,Female,Associate,PG,186.1,84.6,201971.43
+6,35,Male,Senior Manager,PG,153.9,79.8,129339.97
+8,39,Male,Associate,PG,177.2,67.0,130098.79
+7,39,Male,Senior Manager,UG,182.5,83.6,130895.64
+11,44,Female,Associate,PG,154.9,57.3,162413.09
+1,35,Female,Associate,UG,172.8,55.6,63852.68
+0,34,Male,Associate,UG,155.3,80.4,93712.25
+15,48,Male,Manager,UG,165.3,77.0,145376.42
+22,45,Female,Associate,PG,162.4,64.5,171214.03
+22,56,Male,Senior Manager,UG,141.0,56.4,204982.9
+29,53,Female,Associate,UG,169.2,87.5,216650.1
+23,46,Male,Senior Manager,UG,166.4,49.4,187023.72
+4,28,Male,Associate,UG,179.8,62.8,103132.53
+2,30,Male,Senior Manager,PG,171.1,72.7,100250.62
+11,33,Male,Manager,PG,187.9,91.6,147146.12
+7,38,Female,Manager,PG,166.1,74.6,123275.69
+21,50,Male,Senior Manager,UG,163.9,75.8,194746.36
+26,60,Male,Manager,UG,163.2,63.2,210606.5
+2,33,Female,Manager,UG,160.6,76.8,113322.12
+0,31,Male,Associate,UG,142.9,71.3,93270.8
+2,33,Male,Associate,UG,162.8,50.9,95866.82
+4,27,Female,Senior Manager,PG,144.3,79.5,100906.47
+14,38,Female,Manager,UG,169.5,81.6,136907.32
+13,43,Male,Manager,UG,152.6,79.6,139181.15
+2,30,Female,Associate,UG,156.1,70.4,63475.05
+0,25,Female,Associate,UG,158.3,58.5,85045.29
+4,35,Male,Associate,UG,163.0,42.3,97128.39
+25,51,Male,Manager,PG,165.1,71.9,199121.06
+22,45,Female,Associate,PG,175.8,83.0,188554.2
+13,47,Female,Associate,PG,159.2,81.9,144747.08
+6,38,Male,Associate,UG,169.8,79.8,102648.68
+26,60,Female,Associate,UG,192.3,69.1,200886.42
+8,37,Female,Manager,UG,168.8,83.0,113231.33
+14,39,Male,Associate,UG,163.2,81.1,139967.8
+14,44,Male,Manager,PG,157.2,64.9,155209.21
+25,51,Male,Associate,UG,163.1,78.1,182441.93
+9,43,Female,Associate,UG,156.1,63.6,120497.36
+27,57,Male,Associate,UG,167.7,76.5,201470.66
+12,37,Female,Associate,UG,166.0,54.4,127293.22
+18,49,Female,Associate,PG,143.4,55.3,162148.14
+6,32,Female,Associate,UG,164.8,82.7,97449.51
+16,46,Male,Manager,UG,175.8,81.3,162272.33
+19,48,Female,Associate,UG,161.0,77.6,162178.67
+28,52,Male,Manager,UG,158.5,71.1,208281.28
+3,25,Female,Senior Manager,PG,151.2,41.3,99578.32
+29,53,Male,Manager,PG,146.4,69.1,227450.33
+4,29,Male,Associate,PG,173.3,75.5,97526.2
+22,45,Female,Associate,PG,163.2,63.6,168433.21
+6,28,Male,Associate,UG,172.7,119.5,99630.79
+12,40,Male,Associate,PG,180.3,87.3,136384.88
+14,43,Female,Senior Manager,UG,174.2,69.3,144205.63
+10,38,Female,Associate,UG,159.6,75.5,125398.78
+28,54,Female,Associate,PG,166.4,79.3,194840.05
+3,36,Female,Manager,UG,158.9,58.0,117277.49
+12,34,Male,Manager,PG,157.9,72.3,135554.04
+6,34,Male,Manager,UG,168.4,85.8,122865.35
+26,60,Male,Associate,PG,156.7,91.8,202721.69
+18,46,Male,Associate,PG,142.9,70.5,164590.27
+21,51,Female,Manager,PG,156.1,67.1,201549.46
+27,51,Female,Associate,PG,161.9,73.2,194804.18
+1,31,Male,Associate,PG,180.2,72.9,84676.67
+9,31,Male,Associate,UG,160.1,86.6,116075.78
+12,34,Female,Associate,UG,170.1,58.0,128346.34
+29,54,Male,Associate,UG,163.3,66.6,198494.02
+24,54,Female,Associate,PG,177.3,56.6,173166.49
+20,47,Male,Manager,UG,176.6,57.9,170421.19
+5,39,Female,Manager,PG,176.8,74.5,130345.96
+27,59,Male,Senior Manager,UG,147.7,79.7,217692.11
+27,51,Female,Associate,UG,167.1,62.2,192377.58
+11,33,Female,Associate,PG,172.6,79.3,115990.89
+11,36,Female,Associate,UG,168.8,83.3,102737.42
+19,52,Female,Manager,UG,171.4,93.2,173346.67
+29,63,Female,Manager,UG,165.6,70.8,233236.75
+29,59,Female,Associate,PG,157.6,62.3,191737.2
+10,34,Male,Senior Manager,PG,148.0,58.0,144400.73
+25,58,Female,Associate,UG,158.5,56.8,185067.36
+22,52,Female,Manager,UG,191.8,85.0,195263.32
+27,55,Male,Manager,UG,160.1,51.8,216564.36
+24,57,Female,Senior Manager,PG,145.4,84.6,215726.39
+6,31,Female,Manager,PG,172.3,59.6,112808.69
+29,53,Female,Senior Manager,UG,173.6,61.8,213454.48
+0,31,Male,Associate,UG,177.9,68.2,69103.08
+0,26,Male,Senior Manager,UG,169.7,61.6,111979.15
+24,50,Female,Associate,PG,173.5,81.2,178425.12
+26,50,Female,Senior Manager,PG,183.4,91.8,228835.25
+29,62,Male,Manager,UG,157.5,62.1,217344.06
+24,54,Female,Senior Manager,UG,155.6,64.8,213189.15
+19,44,Female,Associate,UG,154.1,68.0,146561.32
+12,44,Male,Manager,PG,162.3,76.5,158240.14
+8,34,Female,Manager,UG,179.3,68.2,116810.27
+2,27,Male,Manager,PG,170.3,86.6,94451.18
+6,32,Male,Associate,PG,169.9,83.8,113165.94
+5,33,Male,Associate,UG,146.8,55.8,95674.94
+7,37,Female,Associate,UG,158.1,76.3,97202.61
+26,54,Male,Associate,UG,146.6,88.2,202576.0
+8,42,Male,Senior Manager,PG,176.7,64.1,136581.74
+29,55,Male,Associate,PG,180.9,66.5,215733.86
+4,35,Male,Senior Manager,PG,212.8,63.7,135449.93
+0,31,Female,Associate,UG,155.1,63.9,77677.47
+18,46,Male,Associate,UG,179.8,50.0,170837.57
+9,40,Male,Manager,PG,162.5,54.1,142757.35
+11,37,Female,Manager,PG,152.9,70.9,131483.45
+23,47,Male,Associate,UG,155.4,88.2,189520.56
+14,42,Male,Manager,PG,160.7,62.6,144539.69
+26,60,Male,Manager,PG,165.5,62.3,215212.34
+21,53,Male,Associate,UG,163.4,90.4,176490.04
+23,55,Male,Senior Manager,PG,150.9,56.7,218441.71
+8,31,Male,Senior Manager,PG,177.1,50.1,142655.19
+19,52,Male,Manager,PG,163.5,60.1,196490.56
+16,46,Female,Associate,UG,157.9,62.0,154177.94
+29,60,Male,Manager,UG,176.1,49.0,220189.92
+16,47,Female,Associate,PG,153.2,68.5,140176.38
+25,58,Female,Associate,UG,148.7,81.4,183811.24
+19,41,Male,Associate,UG,177.7,54.6,172183.88
+11,45,Female,Associate,UG,183.9,71.1,117237.0
+29,56,Male,Senior Manager,UG,160.4,74.8,219146.24
+6,34,Female,Manager,PG,164.5,69.0,130440.76
+1,35,Male,Manager,PG,153.5,72.2,108546.48
+2,31,Male,Associate,UG,165.1,72.4,97787.83
+16,47,Male,Associate,UG,160.2,60.2,159875.24
+4,34,Female,Associate,UG,164.0,88.0,112744.67
+16,39,Male,Senior Manager,PG,169.1,85.0,170519.66
+23,55,Female,Associate,PG,154.0,84.3,198122.41
+16,47,Male,Senior Manager,UG,161.4,82.2,167275.94
+26,49,Female,Manager,PG,147.0,51.1,207216.44
+16,42,Male,Associate,PG,161.5,81.1,148054.33
+1,35,Female,Manager,PG,164.1,77.9,100987.87
+1,27,Male,Associate,PG,167.3,51.6,93403.37
+27,54,Male,Senior Manager,UG,167.4,67.4,227020.48
+21,45,Male,Senior Manager,PG,174.0,73.3,208439.58
+22,51,Male,Associate,UG,149.6,90.0,194715.56
+4,38,Female,Associate,PG,150.1,78.7,118124.93
+0,22,Male,Manager,PG,170.3,59.6,66790.87
+0,27,Female,Senior Manager,PG,144.6,90.3,118735.9
+18,43,Male,Associate,PG,166.8,70.5,168690.42
+29,51,Male,Manager,UG,153.2,66.9,201773.17
+1,29,Male,Manager,UG,180.7,66.1,99855.96
+20,50,Male,Manager,PG,167.5,50.5,175581.42
+11,45,Female,Associate,PG,162.8,68.7,146671.39
+25,50,Male,Manager,UG,177.3,76.0,182916.6
+5,30,Male,Senior Manager,UG,154.4,65.4,107850.77
+22,49,Female,Associate,UG,156.3,75.0,181570.76
+3,36,Female,Associate,PG,152.4,59.6,113634.68
+22,46,Male,Senior Manager,PG,156.3,68.3,199206.04
+10,44,Male,Associate,UG,165.6,73.8,129152.76
+23,56,Female,Senior Manager,UG,215.9,72.3,187112.86
+26,53,Male,Associate,PG,174.6,50.7,196400.06
+16,44,Male,Associate,PG,146.8,64.7,160227.81
+5,37,Male,Senior Manager,UG,163.3,90.1,123384.14
+23,54,Female,Associate,UG,153.9,64.1,184701.08
+4,35,Female,Manager,UG,162.9,70.2,107634.13
+19,43,Male,Associate,UG,188.3,69.0,154396.52
+1,29,Male,Manager,UG,167.9,88.8,93329.82
+5,29,Male,Associate,PG,174.0,85.5,96864.48
+21,55,Female,Associate,PG,184.6,79.7,200060.0
+10,44,Male,Senior Manager,PG,176.3,58.3,134957.14
+15,38,Male,Associate,PG,160.5,74.3,137532.11
+15,48,Female,Manager,UG,152.2,76.8,153254.09
+0,31,Male,Associate,UG,164.7,61.6,84664.45
+8,33,Female,Manager,UG,159.3,59.6,119211.72
+27,60,Male,Associate,UG,149.8,90.5,223207.09
+26,55,Male,Senior Manager,PG,167.4,66.4,241012.64
+5,39,Male,Associate,PG,167.7,89.4,106840.6
+15,45,Female,Associate,UG,182.7,82.0,147629.35
+28,56,Female,Associate,UG,161.4,74.9,204959.64
+2,24,Female,Associate,PG,167.8,75.4,74052.16
+19,43,Male,Manager,UG,158.3,53.2,173700.13
+27,61,Female,Associate,UG,173.7,72.5,205156.03
+26,59,Male,Senior Manager,PG,163.8,87.0,216868.43
+3,33,Male,Associate,PG,153.3,78.2,96670.22
+18,51,Female,Associate,UG,164.9,71.9,155528.14
+25,47,Male,Manager,UG,168.9,90.5,201947.62
+2,32,Male,Manager,PG,167.6,67.8,124021.69
+18,47,Male,Associate,UG,175.5,62.6,162978.18
+19,41,Male,Associate,UG,150.5,71.8,155545.9
+6,33,Male,Associate,PG,156.6,79.2,110009.8
+19,45,Female,Manager,UG,171.4,49.4,181292.49
+8,35,Male,Manager,PG,157.7,73.4,139080.98
+0,31,Female,Associate,UG,167.4,79.7,80384.66
+7,40,Female,Senior Manager,PG,140.8,66.8,143395.2
+6,40,Male,Senior Manager,UG,192.2,83.3,140702.11
+17,51,Male,Manager,UG,162.3,77.7,162132.72
+7,41,Male,Senior Manager,UG,176.9,95.7,150762.87
+0,26,Female,Associate,UG,161.6,61.0,91304.45
+10,37,Male,Associate,PG,169.1,80.0,138200.96
+27,53,Female,Associate,PG,179.9,57.8,188082.03
+24,56,Male,Associate,UG,176.7,50.6,172300.13
+24,57,Female,Manager,UG,163.0,45.6,209503.68
+17,43,Male,Senior Manager,PG,163.6,76.5,168910.72
+22,47,Male,Associate,PG,208.0,72.2,180593.14
+29,53,Female,Associate,UG,188.3,64.3,216950.9
+9,33,Female,Associate,UG,166.9,48.7,104876.22
+2,27,Male,Senior Manager,UG,184.6,61.7,98797.45
+6,36,Female,Associate,PG,162.6,70.0,114755.31
+27,50,Male,Manager,UG,174.5,79.5,189101.06
+15,45,Female,Associate,PG,176.0,69.8,144975.9
+25,47,Female,Associate,UG,160.9,73.0,180737.15
+15,37,Male,Senior Manager,PG,157.5,65.5,158444.56
+24,50,Male,Senior Manager,UG,176.5,91.0,209204.32
+19,46,Male,Associate,UG,159.7,57.8,189596.56
+27,54,Male,Senior Manager,UG,156.1,61.6,218921.49
+16,40,Female,Manager,PG,158.2,64.1,149530.96
+1,29,Male,Senior Manager,UG,159.6,76.5,116675.16
+0,30,Male,Associate,UG,173.6,57.5,65117.25
+15,47,Female,Manager,UG,170.2,71.6,146641.56
+29,62,Female,Associate,UG,172.2,72.0,209090.69
+11,42,Male,Manager,PG,169.2,61.7,144167.2
+4,33,Male,Associate,PG,159.1,74.0,96291.46
+4,31,Male,Associate,PG,172.0,57.9,99183.45
+26,59,Male,Associate,UG,176.8,56.6,205266.33
+22,51,Female,Manager,PG,170.8,71.2,203222.41
+8,41,Male,Associate,UG,169.5,50.1,122374.61
+8,34,Female,Manager,UG,157.3,44.3,114264.97
+2,31,Male,Senior Manager,UG,167.1,76.4,118676.23
+18,49,Female,Associate,UG,156.8,82.6,154319.6
+15,48,Female,Manager,PG,164.8,64.4,150655.97
+15,40,Female,Associate,PG,148.6,62.0,156953.5
+2,33,Male,Senior Manager,PG,148.7,82.1,127873.1
+19,48,Male,Associate,UG,163.1,56.3,157026.22
+23,54,Male,Manager,UG,159.5,53.6,191932.51
+21,54,Female,Senior Manager,UG,166.1,78.5,189861.54
+23,46,Female,Senior Manager,UG,163.7,70.1,196259.83
+0,33,Female,Manager,UG,165.3,82.8,111860.34
+23,56,Female,Associate,UG,171.1,44.3,194982.2
+19,45,Female,Manager,UG,202.4,53.2,179993.66
+10,40,Male,Senior Manager,UG,162.8,70.2,154186.83
+16,41,Female,Manager,PG,179.6,75.0,159586.6
+7,39,Male,Associate,PG,165.0,80.2,131364.05
+3,30,Male,Senior Manager,PG,163.2,72.1,122447.64
+5,27,Male,Manager,PG,165.8,72.0,120904.51
+7,37,Male,Manager,UG,163.4,65.3,117882.42
+19,41,Male,Associate,PG,157.9,89.1,142140.68
+29,55,Female,Manager,PG,155.0,56.8,229862.9
+2,27,Male,Associate,UG,157.4,74.3,85972.45
+15,49,Female,Manager,UG,173.7,58.1,160547.62
+29,62,Male,Associate,PG,158.7,76.4,218586.23
+24,58,Male,Manager,UG,163.5,57.6,230501.78
+2,36,Male,Senior Manager,UG,172.0,78.9,109639.87
+24,48,Male,Associate,UG,162.2,71.3,171457.08
+28,62,Female,Senior Manager,UG,171.3,90.9,232947.32
+17,44,Male,Associate,UG,149.6,66.6,164717.75
+13,36,Female,Senior Manager,UG,163.7,75.1,170792.69
+17,41,Male,Manager,UG,165.8,60.6,165049.53
+1,27,Female,Manager,UG,165.2,66.5,75786.71
+21,51,Female,Manager,PG,148.5,71.3,209129.8
+2,25,Female,Senior Manager,UG,177.0,51.7,98310.49
+15,46,Male,Associate,UG,156.5,53.0,141529.14
+28,57,Male,Associate,UG,168.4,77.2,194744.42
+8,31,Male,Manager,PG,165.1,68.2,129858.43
+3,35,Female,Senior Manager,UG,175.0,62.9,118917.13
+0,34,Male,Manager,UG,186.9,61.2,100533.6
+3,29,Male,Manager,PG,152.1,61.6,116275.37
+0,28,Female,Associate,PG,158.5,71.4,73950.06
+13,42,Male,Senior Manager,UG,166.9,75.3,171687.02
+20,42,Female,Associate,PG,153.9,44.9,157677.84
+15,42,Male,Manager,UG,172.8,87.0,175730.04
+19,41,Male,Associate,UG,173.4,86.1,160577.86
+23,46,Female,Associate,UG,170.6,42.0,163741.68
+7,29,Male,Associate,UG,167.4,83.0,80296.74
+6,38,Female,Associate,PG,178.7,82.7,123195.72
+2,28,Male,Manager,UG,153.4,70.0,90200.43
+16,47,Male,Associate,UG,165.7,54.4,152900.91
+0,30,Female,Associate,PG,157.6,82.2,92661.57
+15,42,Female,Associate,PG,173.9,67.1,158139.95
+11,43,Female,Associate,UG,146.7,76.6,144665.2
+26,58,Male,Associate,PG,164.7,96.6,194330.07
+18,40,Female,Associate,UG,168.4,73.0,163284.78
+21,55,Male,Manager,PG,155.5,59.0,190629.16
+22,44,Male,Manager,PG,158.7,66.0,160394.1
+21,44,Female,Manager,PG,165.2,60.5,167187.95
+13,43,Male,Associate,UG,174.6,75.2,141743.61
+29,53,Female,Associate,UG,154.7,60.3,191631.2
+5,27,Male,Senior Manager,UG,156.4,64.3,110559.61
+5,31,Male,Manager,UG,176.3,54.6,110892.56
+12,40,Male,Associate,UG,162.3,68.4,130167.74
+18,45,Female,Associate,PG,206.2,72.1,156768.94
+21,54,Female,Associate,UG,172.3,80.8,166561.82
+7,29,Female,Associate,UG,160.1,73.1,99704.37
+26,52,Female,Associate,PG,175.3,69.5,175400.15
+26,52,Female,Manager,UG,158.4,60.8,194079.29
+1,28,Female,Manager,PG,163.4,94.3,85787.21
+20,44,Male,Manager,UG,174.4,81.5,169687.99
+29,55,Male,Manager,UG,162.7,56.8,213315.92
+0,28,Male,Senior Manager,UG,172.6,80.1,107667.55
+27,53,Female,Manager,UG,164.3,84.9,221376.3
+14,40,Female,Senior Manager,PG,184.8,71.6,150926.05
+0,26,Male,Associate,UG,180.7,74.3,95019.78
+4,35,Female,Associate,UG,151.7,74.1,91652.82
+27,58,Female,Associate,UG,170.2,45.0,204676.29
+28,52,Male,Manager,UG,156.8,67.8,213061.08
+15,37,Female,Senior Manager,PG,166.9,67.1,184946.8
+18,44,Female,Associate,UG,165.7,87.2,149632.08
+3,33,Male,Senior Manager,PG,154.4,74.0,101491.86
+2,24,Female,Associate,PG,175.6,66.4,96946.0
+16,40,Male,Senior Manager,UG,167.0,68.9,155673.19
+16,50,Female,Associate,PG,162.2,82.3,159406.72
+11,45,Female,Associate,UG,160.6,67.8,124293.95
+27,52,Female,Associate,UG,166.4,61.6,190394.82
+29,51,Male,Associate,UG,169.1,66.7,191106.56
+28,50,Female,Associate,PG,163.8,81.3,205792.03
+13,42,Female,Associate,PG,136.7,129.0,142843.15
+20,43,Male,Senior Manager,UG,165.2,70.5,173691.89
+5,38,Female,Manager,PG,150.6,72.3,131893.54
+2,31,Male,Associate,UG,162.9,63.3,91019.34
+27,55,Female,Manager,UG,151.0,67.7,189962.31
+8,39,Male,Manager,UG,150.8,62.0,137602.33
+4,35,Male,Associate,PG,177.4,66.5,107399.82
+23,46,Male,Associate,PG,161.8,86.2,192939.78
+28,55,Female,Associate,UG,161.0,57.1,202680.54
+16,43,Male,Associate,UG,169.8,61.7,140582.24
+13,37,Female,Manager,UG,161.3,54.9,137393.36
+20,52,Male,Associate,UG,186.0,52.3,182091.43
+2,25,Male,Manager,UG,162.3,67.8,81772.25
+27,60,Male,Manager,PG,168.7,62.6,217593.05
+0,22,Female,Associate,UG,174.7,91.1,65895.08
+19,46,Male,Manager,UG,181.0,66.6,160576.21
+28,61,Female,Associate,UG,157.6,85.5,202946.08
+20,46,Female,Senior Manager,PG,160.8,81.6,190739.45
+22,54,Female,Associate,PG,177.7,67.5,199080.98
+0,30,Male,Senior Manager,UG,173.1,95.3,104287.94
+2,24,Male,Manager,PG,175.8,73.2,92604.81
+17,45,Female,Associate,UG,151.3,88.2,145173.33
+24,50,Male,Manager,UG,180.5,86.8,204079.28
+9,35,Female,Senior Manager,UG,157.4,75.0,138811.91
+21,44,Male,Manager,UG,166.9,79.0,167969.36
+25,57,Female,Senior Manager,UG,163.5,77.5,224501.54
+2,26,Female,Senior Manager,PG,156.2,56.3,110510.65
+7,35,Female,Associate,PG,150.9,118.7,105440.13
+13,40,Male,Associate,PG,147.6,82.9,138937.7
+23,56,Female,Manager,UG,166.2,88.3,193133.17
+17,40,Male,Associate,UG,149.7,61.4,173233.17
+14,41,Male,Senior Manager,PG,153.7,76.3,169779.8
+21,44,Female,Senior Manager,UG,162.8,71.8,185862.15
+22,45,Female,Associate,UG,138.6,68.6,173090.45
+1,24,Female,Associate,UG,172.8,74.3,87843.39
+26,58,Female,Manager,PG,140.9,72.6,214053.55
+9,33,Male,Associate,UG,164.2,76.5,106616.53
+1,24,Male,Senior Manager,UG,165.2,87.3,103495.49
+25,50,Female,Associate,PG,170.4,79.4,188305.69
+16,46,Male,Manager,UG,164.6,73.7,152310.14
+7,34,Male,Associate,UG,185.2,92.4,95521.16
+0,22,Male,Manager,UG,167.2,83.3,94343.74
+8,37,Male,Associate,UG,175.5,68.9,116865.8
+10,43,Male,Manager,PG,157.8,55.4,139524.34
+21,49,Male,Associate,UG,166.2,58.1,170127.13
+15,46,Male,Manager,UG,180.5,81.2,168185.42
+6,30,Male,Senior Manager,PG,162.6,62.4,121031.37
+28,50,Female,Associate,PG,166.9,57.9,184479.12
